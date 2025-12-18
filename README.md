@@ -1,4 +1,18 @@
-## Hi there 👋
+
+
+<p align="center">
+  <h1>****----_🌐⚡💻👋 Hi, I'm Faisal Mirza 👨‍💻💡🎯🚀✨_----****</h1>
+</p>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C853&center=true&vCenter=true&width=600&lines=Code+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Scan+%E2%86%92+Deploy+%E2%86%92+Monitor" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=F7B93E&center=true&vCenter=true&width=500&lines=Automating+Infrastructure.+Securing+Pipelines." />
+</p>
 
 <!--
 **FaisalMirza89/FaisalMirza89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +28,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Faisal Mirza
+## Hi there 👋
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,aws,docker,kubernetes,jenkins,terraform,ansible&perline=8" />
+</p>
+
+<p align="center">
+  <b>Linux</b> • <b>Windows Server</b> • <b>AWS</b> • <b>Docker</b> • 
+  <b>Kubernetes</b> • <b>Jenkins</b> • <b>Terraform</b> • <b>Ansible</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+</p>
+
+<p align="center">
+  <b>Git</b> • <b>GitHub</b> • <b>Apache</b> • <b>Nginx</b> • 
+  <b>MySQL</b> • <b>Python</b> • <b>Bash</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img height="55" src="https://owasp.org/assets/images/logo.png"/>
+  <img height="55" src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg"/>
+  <img height="55" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg"/>
+  <img height="55" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg"/>
+</p>
+
+<p align="center">
+  <b>OWASP</b> • <b>Trivy</b> • <b>SonarQube</b> • <b>Burp Suite</b> • <b>Nmap</b>
+</p>
+
+
+
 
 🚀 **DevOps | Cloud | DevSecOps | System Administration Enthusiast**
 🎓 PG-DITISS Graduate (C-DAC)
@@ -67,6 +124,7 @@ I enjoy building **secure, automated, and scalable infrastructure**, and I am ac
 🔗 **Repo:** [DevSecOps-Project-1](https://github.com/FaisalMirza89/DevSecOps-Project-1)
 
 A **secure file encryption & decryption web application** using **AES with PBKDF2**, deployed on **AWS EC2** with a **Jenkins CI/CD pipeline** and integrated **security scanning tools**.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/63d60131-6809-49ea-94ca-53ef67e12227" />
 
 ### ✅ Key Features
 
