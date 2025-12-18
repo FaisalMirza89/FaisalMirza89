@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 📍 Sangamner, Maharashtra, India
 
 ---
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/faisal-mirza-27a5b61b2](https://www.linkedin.com/in/faisal-mirza-27a5b61b2)
+* 💻 GitHub: [https://github.com/FaisalMirza89](https://github.com/FaisalMirza89)
+* 📧 Email: [faisalmirza2002@gmail.com](mailto:faisalmirza2002@gmail.com)
+---
 
 ## 🧑‍💻 About Me
 
@@ -116,13 +122,6 @@ AWS EC2 Deployment
 * Administered **Linux and Windows Server environments** with networking and security controls
 * Worked with **Infrastructure, Cloud, and Security tools** in real-world lab environments
 
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/faisal-mirza-27a5b61b2](https://www.linkedin.com/in/faisal-mirza-27a5b61b2)
-* 💻 GitHub: [https://github.com/FaisalMirza89](https://github.com/FaisalMirza89)
-* 📧 Email: [faisalmirza2002@gmail.com](mailto:faisalmirza2002@gmail.com)
 
 ---
 
