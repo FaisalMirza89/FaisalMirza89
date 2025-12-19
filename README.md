@@ -171,7 +171,7 @@ AWS EC2 Deployment
 
 ---
 
-## 📄 ATS-Optimized Resume Bullets
+## 📄 Resume Bullets
 
 * Implemented a **DevSecOps CI/CD pipeline** using Jenkins, GitHub, Docker, and AWS EC2
 * Designed and deployed a **secure AES-based encryption web application** using PBKDF2
